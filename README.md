@@ -16,8 +16,7 @@
 
 **Languages**: Python, TypeScript/JavaScript, SQL, Bash
 **Backend**: FastAPI, Express.js(Node), Flask
-**Frontend**: React, Tailwind, shadcn/ui
-**Data/ML**: PyTorch/TensorFlow, scikit-learn, LangChain/RAG, SimHash, ANN(retrieval), MMR/RRF, Cross-Encoder
+**Data/ML**: PyTorch/TensorFlow, scikit-learn, LangChain/RAG, SimHash, ANN(retrieval)
 **Infra/DevOps**: Docker, NGINX, GCP Cloud Run, AWS (EKS/ECS/ECR, RDS, EFS, S3, Lambda), Firebase
 **DB/Streaming**: PostgreSQL/MySQL, Redis, Kafka
 
@@ -48,24 +47,6 @@
 LangGraph 기반 하이브리드 검색 시스템 (다중단계 재순위화, 베이지안 최적화, 앙상블 기법)
 `Python` · `PostgreSQL` · `pgvector` · `LangChain` · `scikit-optimize`
 
----
-
-## 📈 Research & Development Focus
-
-- **데이터 사이언스**: 머신러닝 모델링, 통계적 분석, 실험 설계
-- **시스템 개발**: 확장 가능한 백엔드 아키텍처, API 설계, 데이터 파이프라인
-- **연구 방법론**: 가설 수립 → 실험 설계 → 데이터 기반 검증
-
----
-
-## 📝 Recent Writing / Notes (topics)
-
-- **RAG 품질 향상**: Chunking → Dedup(SimHash/MMR) → Re-ranking → Eval
-- **EFS/EKS/ECS 개념 정리** & Cut-over 전략
-- **추천 시스템 입력정의**(행동 로그 없이 관계 중심 피처로 시작하는 법)
-- **배포 파이프라인**: Cloud Run + RDS + Firebase 하이브리드
-
-<!-- (블로그/노션 링크가 있다면 여기 연결) -->
 
 ---
 
